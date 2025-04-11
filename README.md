@@ -13,9 +13,9 @@ This hub gathers system-level computer science lab projects from core undergradu
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
+| Digital Logic Circuits (Coming Soon) | Projects for digital logic design will be added soon. This includes combinational/sequential circuits and Logisim-based implementations. | _To be added_ |
 | Multicycle Processor Implementation | A multicycle processor implementation for computer architecture coursework. Instructions are executed across multiple clock cycles with separate stages: fetch, decode, execute, memory access, and write-back. | [Go to repo](https://github.com/masonl2ee/242RCOSE22201.git) |
 | CPU Scheduling | Source code implementation of CPU scheduling algorithms (FCFS, SJF, Round Robin), developed for operating systems coursework. | [Go to repo](https://github.com/masonl2ee/251RCOSE34102.git) |
-| Digital Logic Circuits (Coming Soon) | Projects for digital logic design will be added soon. This includes combinational/sequential circuits and Logisim-based implementations. | _To be added_ |
 
 ---
 
