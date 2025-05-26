@@ -19,12 +19,12 @@ This hub gathers system-level computer science lab projects from core undergradu
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 Each project is maintained in its own repository, and includes:
-- 📄 Source code
-- 🧪 Simulation or test cases
-- 📚 Project report or documentation (if applicable)
+- Source code
+- Simulation or test cases
+- Project report or documentation (if applicable)
 
 Refer to each repo’s `README.md` for specific build and usage instructions.
 
