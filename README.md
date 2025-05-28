@@ -3,13 +3,13 @@
 Welcome to the **CS Core Labs** repository!  
 This hub gathers system-level computer science lab projects from core undergraduate courses, including:
 
-- Computer Architecture 🖥️  
-- Operating Systems ⚙️  
-- Digital Logic Design 🔌 (coming soon)
+- Computer Architecture 
+- Operating Systems 
+- Digital Logic Design (coming soon)
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project Name | Description | Repository Link |
 |--------------|-------------|-----------------|
