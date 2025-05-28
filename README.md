@@ -30,6 +30,6 @@ Refer to each repo’s `README.md` for specific build and usage instructions.
 
 ---
 
-## 📌 Note
+## Note
 
 These projects were developed as part of university coursework, designed to enhance understanding of low-level system principles, including CPU design, scheduling strategies, and circuit logic.
