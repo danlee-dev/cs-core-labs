@@ -5,7 +5,7 @@ This hub gathers system-level computer science lab projects from core undergradu
 
 - Computer Architecture 
 - Operating Systems 
-- Digital Logic Design (coming soon)
+- Digital Logic Design
 
 ---
 
